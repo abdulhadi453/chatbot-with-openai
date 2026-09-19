@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "render": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@niyogi/render-mcp",
+        "start"
+      ]
+    }
+  }
+}
